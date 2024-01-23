@@ -1,0 +1,38 @@
+
+/* .container {
+    width: 400px;
+    margin: 50px;
+} */
+
+/* form {
+    display: flex;
+    flex-direction: column;
+} */
+
+label {
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}
+
+button {
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+    inset-inline: block;
+
+}
+
+button:hover {
+    background-color: red;
+}
+
+.error {
+    color: red;
+    margin-bottom: 20px;
+}
